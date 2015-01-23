@@ -1,0 +1,5 @@
+--What happens when you initialize a repository? Why do 
+you need to do it?
+
+You create a .git folder when you initialize a 
+repository, which allows you to make commits into it.
