@@ -22,3 +22,14 @@ one commit per logical change?
 You can see what is ready for commit and make sure that
 the desired files are in the staging area and reflect 
 the logical change.
+
+
+
+--What are some situations when branches would be 
+helpful in keeping your history organized? How would 
+branches help?
+
+Branching can help diverge from a project by exploring 
+different elements or ideas. You can seperate a main 
+project from the other, or later merge the branch with 
+the main head if desired.
