@@ -33,3 +33,12 @@ Branching can help diverge from a project by exploring
 different elements or ideas. You can seperate a main 
 project from the other, or later merge the branch with 
 the main head if desired.
+
+
+
+--How do the diagrams help you visualize the branch 
+structure?
+
+Diagrams help indicate where each branch connects
+with each other and the reachability of each commit 
+in the project.
