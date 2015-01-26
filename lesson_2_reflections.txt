@@ -1,12 +1,12 @@
---What happens when you initialize a repository? Why do 
+-1-
+What happens when you initialize a repository? Why do 
 you need to do it?
 
 You create a .git folder when you initialize a 
 repository, which allows you to make commits into it.
 
 
-
---How is the staging area different from the working 
+-2-How is the staging area different from the working 
 area and the reppository? What value do you think it 
 offers?
 
@@ -15,8 +15,7 @@ add files into git. You can create logical commits with
 the staging area.
 
 
-
---How can you use the staging area to make sure you have 
+-3-How can you use the staging area to make sure you have 
 one commit per logical change?
 
 You can see what is ready for commit and make sure that
@@ -24,8 +23,7 @@ the desired files are in the staging area and reflect
 the logical change.
 
 
-
---What are some situations when branches would be 
+-4-What are some situations when branches would be 
 helpful in keeping your history organized? How would 
 branches help?
 
@@ -35,8 +33,7 @@ project from the other, or later merge the branch with
 the main head if desired.
 
 
-
---How do the diagrams help you visualize the branch 
+-5-How do the diagrams help you visualize the branch 
 structure?
 
 Diagrams help indicate where each branch connects

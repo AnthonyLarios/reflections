@@ -1,4 +1,4 @@
---How did viewing a diff between two versions of a file
+-1-How did viewing a diff between two versions of a file
 help you see the bug that was introduced?
 
 The diff, or FC, between two versions of a file showed
@@ -8,8 +8,7 @@ lines. Any new bugs that occur in the new version must
 be one of the changes made.
 
 
-
---How could having easy access to the entire history of
+-2-How could having easy access to the entire history of
 a file make you a more efficient programmer in the long
 term?
 
@@ -17,8 +16,7 @@ You can revert to a previous version of the file rather
 than trying to slowly alter the newer files.
 
 
-
---What do you think are the pros and cons of manually
+-3-What do you think are the pros and cons of manually
 choosing when to create a commit, like you do in Git,
 vs having versions automatically saved, like Google
 docs does?
@@ -29,8 +27,7 @@ logical comments for each version change. You cannot be
 forgetfull in order for this strategy to work.
 
 
-
---Why do you think some version control systems, like
+-4-Why do you think some version control systems, like
 Git, allow saving multiple files in one commit, while
 others, like Google Docs, treat each file separately?
 
@@ -39,8 +36,7 @@ require the user to see changes done on all files for
 a specific commit.
 
 
-
---How can you use the commands git log and git diff to
+-5-How can you use the commands git log and git diff to
 view the history of files?
 
 git log shows you the commits and comments associated
@@ -48,16 +44,14 @@ with each file history and git diff shows the difference
 between each file.
 
 
-
---How might using version control make you more confident
+-6-How might using version control make you more confident
 to make changes that could break something?
 
 I can exactly figure out what I want to break or fix using
 version control by checking out previous commits.
 
 
-
---Now that you have your workspace set up, what do you want
+-7-Now that you have your workspace set up, what do you want
 to try using Git for?
 
 I want to git for web development and, hopefully 
