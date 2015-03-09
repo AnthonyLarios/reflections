@@ -49,3 +49,11 @@ branch. We still represent the merge diagram the way we
 do in order to show the true parent of each commit,
 rather than it time stamp parent, which occurs when
 merging two branches.
+
+
+-7-What are the pros and cons of Git's automatic merging
+versus always doing merging manually?
+
+Git's automatic merging is faster and includes additions
+and deletions to the merge. It can also notify you of any
+conflict in the code and lets you resolve it manually.
