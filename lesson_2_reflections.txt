@@ -39,3 +39,13 @@ structure?
 Diagrams help indicate where each branch connects
 with each other and the reachability of each commit 
 in the project.
+
+
+-6-What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+The two merging branches are now reachable an act as one
+branch. We still represent the merge diagram the way we
+do in order to show the true parent of each commit,
+rather than it time stamp parent, which occurs when
+merging two branches.
