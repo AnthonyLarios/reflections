@@ -12,3 +12,14 @@ having Git automatically stay up-to-date with your remote repository?
 Changes made by others will cause Git to automatically update your
 project and leave no room for review and approval. Additionally, you
 would not know any changes occured, unless notified.
+
+
+-3-Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+Forks are remotley copied repositories, such as GitHub, and are to be
+used when you want to modify a project owned by another and have it
+availble online. clones are repositories copied to a local computer.
+They are used when you want to have a copy for personal modifications
+or use. Branches are alternate paths a project takes by following a
+different set of commits. They are for experimenting on a project.
