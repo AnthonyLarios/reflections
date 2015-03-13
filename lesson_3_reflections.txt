@@ -23,3 +23,11 @@ availble online. clones are repositories copied to a local computer.
 They are used when you want to have a copy for personal modifications
 or use. Branches are alternate paths a project takes by following a
 different set of commits. They are for experimenting on a project.
+
+
+-4-What is the benefit of having a copy of the last known state of
+the remote stored locally?
+
+Having a copy of the last known state of the remote is benificial
+because you can view every update and modification and you can merge
+your local changes to the updated stages.
