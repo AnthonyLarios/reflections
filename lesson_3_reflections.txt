@@ -31,3 +31,12 @@ the remote stored locally?
 Having a copy of the last known state of the remote is benificial
 because you can view every update and modification and you can merge
 your local changes to the updated stages.
+
+
+-5-How would you collaborate without using Git or GitHub? What would
+be easier, and what would be harder?
+
+You can collaborate with others computer to computer or on the same
+server. It would be easier update via commit, branching and merge. It
+would be harder to communicate things quickly and to visually make a
+request or notification of a request.
